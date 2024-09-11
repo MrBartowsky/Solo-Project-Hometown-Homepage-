@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header{
+    background-image: url(./Images/Landscape\ of\ Kaduna.jpeg);
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    gap: 10px;
+    margin: 0;
+    color: rgb(11, 92, 123);
+    padding: 6px;
+   
+}
+h1{
+    background: white;
+    border-radius: 10px;
+    padding: 6px;
+}
+h2{
+    background:none;
+    width: 700px;
+    color: white;
+    font-weight: bolder;
+    text-shadow: 2px 2px #1d3557;
+    text-transform: uppercase;
+}
+.activity{
+    background: #F1FAEE;
+    margin-top: 0px;
+    overflow: hidden;
+}
+#activities-header{
+    margin: 10px auto;
+    width: auto;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.bold{
+    font-weight: bold;
+    width: 250px;
+}
+.round{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;    
+}
+.describe{
+    width: 350px;
+}
+.spots{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    height: 400px;
+}
+.container-2{
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    color: #A8DADC;
+    background:#1d3557 ;
+    padding: 20px 10px;
+    border-radius:30px;
+    margin: 50px auto;
+    width: 500px;
+    height: 250px;
+    box-shadow: 10px 10px #bcbbbb;
+}
+
+.SA-pics{
+    border-radius:20px;
+}
+
+
+.text-style{
+    font-style: italic;
+}
+
+#brief_intro{
+    padding: 30px;
+}
+
+
